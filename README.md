@@ -1,3 +1,5 @@
+
+![Success message](http://i.imgur.com/y1WMbXn.png "Success Message")
 # Clojure Koans
 
 The Clojure Koans are a fun and easy way to get started with Clojure - no
